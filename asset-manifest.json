@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/resumebot/static/css/main.9267047a.chunk.css",
-    "main.js": "/resumebot/static/js/main.fbe537fd.chunk.js",
-    "main.js.map": "/resumebot/static/js/main.fbe537fd.chunk.js.map",
+    "main.css": "/resumebot/static/css/main.473740c0.chunk.css",
+    "main.js": "/resumebot/static/js/main.5caa8aa9.chunk.js",
+    "main.js.map": "/resumebot/static/js/main.5caa8aa9.chunk.js.map",
     "runtime-main.js": "/resumebot/static/js/runtime-main.5ef254c0.js",
     "runtime-main.js.map": "/resumebot/static/js/runtime-main.5ef254c0.js.map",
     "static/js/2.20612619.chunk.js": "/resumebot/static/js/2.20612619.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.081eae0c.chunk.js": "/resumebot/static/js/3.081eae0c.chunk.js",
     "static/js/3.081eae0c.chunk.js.map": "/resumebot/static/js/3.081eae0c.chunk.js.map",
     "index.html": "/resumebot/index.html",
-    "static/css/main.9267047a.chunk.css.map": "/resumebot/static/css/main.9267047a.chunk.css.map",
+    "static/css/main.473740c0.chunk.css.map": "/resumebot/static/css/main.473740c0.chunk.css.map",
     "static/js/2.20612619.chunk.js.LICENSE.txt": "/resumebot/static/js/2.20612619.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5ef254c0.js",
     "static/js/2.20612619.chunk.js",
-    "static/css/main.9267047a.chunk.css",
-    "static/js/main.fbe537fd.chunk.js"
+    "static/css/main.473740c0.chunk.css",
+    "static/js/main.5caa8aa9.chunk.js"
   ]
 }
